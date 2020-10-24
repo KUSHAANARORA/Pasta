@@ -1,0 +1,1 @@
+A pasta recipe is a set of instruction used for preparing and producing pasta. The purpose of a recipe is to have a precise record of the ingredients used, the amounts needed, and the way they are combined.
